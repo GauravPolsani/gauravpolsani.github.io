@@ -1,0 +1,11 @@
+/* CSS: Cascading Style Sheets */
+
+body {
+    background: lightblue;
+    font-family: "comic sans ms";
+    color : darkblue;
+}
+
+h1 {
+    color: white;
+}
