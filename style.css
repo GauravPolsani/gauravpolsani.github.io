@@ -1,9 +1,9 @@
 /* CSS: Cascading Style Sheets */
 
 body {
-    background: lightblue;
+    background: rgb(191, 24, 24);
     font-family: "comic sans ms";
-    color : darkblue;
+    color : rgb(223, 223, 249);
 }
 
 h1 {
