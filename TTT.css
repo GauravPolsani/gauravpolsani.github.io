@@ -1,0 +1,21 @@
+div#game {
+    display: grid;
+    gap: 20px;
+    grid-template-columns: 120px 120px 120px;
+    grid-template-rows: 120px 120px 120px;
+}
+div#game button {
+    font-size:80px;
+    background-color: rgb(31, 31, 31);
+    border: 5px solid black;
+}
+body {
+    background-color: rgb(37, 37, 37);
+    color: antiquewhite;
+}
+div#game button.X {
+    color:red;
+}
+div#game button.O {
+    color:blue;
+}

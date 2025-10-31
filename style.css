@@ -1,11 +1,11 @@
 /* CSS: Cascading Style Sheets */
 
 body {
-    background: rgb(191, 24, 24);
-    font-family: "comic sans ms";
-    color : rgb(223, 223, 249);
+    background: rgb(24, 155, 191);
+    font-family: "times new roman";
+    color : rgb(11, 11, 255);
 }
 
 h1 {
-    color: white;
+    color: rgb(115, 51, 51);
 }
